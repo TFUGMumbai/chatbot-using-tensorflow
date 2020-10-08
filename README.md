@@ -14,7 +14,7 @@
 ## How can you contribute to this project?
 1. Fork this in your repo 
 2. Make a pull request 
-3. Merge it (The maintainer will merge you changes and will label it as 'hacktober-accepted'.
+3. Merge it (The maintainer will merge you changes and will label it as 'hacktober-accepted').
 
 
 
