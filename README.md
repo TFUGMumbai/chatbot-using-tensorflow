@@ -6,6 +6,7 @@
 2. Build a better UI for the Bot
 3. Include other advance ML features
 4. Are allowed to use better intent.json file
+5. You can even contribute to README.MD
 
 
 
